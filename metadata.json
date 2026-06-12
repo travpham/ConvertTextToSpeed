@@ -1,0 +1,6 @@
+{
+  "name": "Auditory Kids Coach & TTS",
+  "description": "Hệ thống trực quan nhận xét lỗi phát âm và chuyển đối giọng nói nữ mẫu cho trẻ em học tiếng Anh qua mô hình Gemini 3.1 TTS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
